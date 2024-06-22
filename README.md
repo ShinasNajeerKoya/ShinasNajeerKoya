@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShinasKoya00.ShinasKoya00" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=5000&lines=Hi+There!+👋;+I'm+Shinas+Najeer+Koya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=black&Color=black&width=500&height=80&duration=5000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Shinas+Najeer+Koya!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
