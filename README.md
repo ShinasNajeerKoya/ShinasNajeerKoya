@@ -44,37 +44,31 @@
     <img src="https://skillicons.dev/icons?i=kotlin,java,html,swift,css,python,javascript,gmail,stackoverflow,c,"/>
 </div>
 
-<br/>
+
 <hr/>
 
+<!--
 <div align="center">
   <h2>🚀 My Contributions 🚀</h2>
   <br>
   <img alt="nuking my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
-
 <hr/>
+-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=ShinasKoya00&theme=react&border_radius=10" alt="streak stats"/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinasKoya00)](https://github.com/ShinasKoya00/github-readme-stats)
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img alt= "git streaks"  aligh = "right" height = "40%" src = "https://streak-stats.demolab.com/?user=shinaskoya00&theme=white&ring=ddccda&fire=ad2398&currStreakLabel=4f0047&currStreakNum=7e3077" />
+    <img alt= "my stats" aligh = "left" width = "49%" src = "https://github-readme-stats.vercel.app/api?username=shinaskoya00&title_color=4f0047" />
+     <img alt= "top languages"  aligh = "right" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shinaskoya00&layout=compact&title_color=4f0047" />
 </div>
-
-<br/><br/>
-
 <hr/>
+<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=black&Color=black&width=600&height=50&duration=5000&lines=Thanks+for+visiting+✨;Shoot+me+a+message+on+LinkedIn;Always+down+to+collab+🚀;" />
+</h1>
 
-<br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
-<br/>
