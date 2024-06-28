@@ -59,9 +59,9 @@
 <br>
 <div align=center>
   <br/>
-    <img alt= "git streaks"  aligh = "right" height = "40%" src = "https://streak-stats.demolab.com/?user=shinaskoya00&theme=white&ring=ddccda&fire=ad2398&currStreakLabel=4f0047&currStreakNum=7e3077" />
-    <img alt= "my stats" aligh = "left" width = "49%" src = "https://github-readme-stats.vercel.app/api?username=shinaskoya00&title_color=4f0047" />
-     <img alt= "top languages"  aligh = "right" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shinaskoya00&layout=compact&title_color=4f0047" />
+    <img alt= "git streaks"  aligh = "right" height = "40%" src = "https://streak-stats.demolab.com/?user=shinasnajeerkoya&theme=white&ring=ddccda&fire=ad2398&currStreakLabel=4f0047&currStreakNum=7e3077" />
+    <img alt= "my stats" aligh = "left" width = "49%" src = "https://github-readme-stats.vercel.app/api?username=shinasnajeerkoya&title_color=4f0047" />
+     <img alt= "top languages"  aligh = "right" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shinasnajeerkoya&layout=compact&title_color=4f0047" />
 </div>
 <hr/>
 <br>
